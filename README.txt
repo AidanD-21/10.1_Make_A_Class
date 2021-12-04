@@ -1,6 +1,6 @@
 README File
 
-GitHub Link: 
+GitHub Link: https://github.com/AidanD-21/10.1_Make_A_Class/tree/main
 
 10.1 - Make your own Class!
 Aidan Doshier - CSE20-03
